@@ -1,0 +1,7 @@
+| Constructor            | Purpose                 | Time |
+| ---------------------- | ----------------------- | ---- |
+| `vector<T> v;`         | Empty vector            | O(1) |
+| `vector<T> v(N);`      | N default elements      | O(N) |
+| `vector<T> v(N, V);`   | N elements with value V | O(N) |
+| `vector<T> v(v2);`     | Copy another vector     | O(N) |
+| `vector<T> v(A, A+N);` | From array              | O(N) |

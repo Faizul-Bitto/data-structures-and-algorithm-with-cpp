@@ -1,0 +1,8 @@
+| Function     | Purpose                           | Time |
+| ------------ | --------------------------------- | ---- |
+| `size()`     | Current element count             | O(1) |
+| `max_size()` | Maximum possible size             | O(1) |
+| `capacity()` | Allocated memory capacity         | O(1) |
+| `clear()`    | Remove all elements (keep memory) | O(N) |
+| `empty()`    | Check if vector empty             | O(1) |
+| `resize()`   | Change vector size                | O(K) |
