@@ -1,0 +1,4 @@
+| Iterator  | Points To          |  Time |
+| --------- | ------------------ |  ---- |
+| `begin()` | First element      |  O(1) |
+| `end()`   | After last element |  O(1) |

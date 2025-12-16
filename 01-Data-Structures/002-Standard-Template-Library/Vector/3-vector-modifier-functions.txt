@@ -1,0 +1,9 @@
+| Function         | Purpose              | Time   |
+| ---------------- | -------------------- | ------ |
+| `=` / `assign()` | Assign vector        | O(N)   |
+| `push_back()`    | Add at end           | O(1)*  |
+| `pop_back()`     | Remove last          | O(1)   |
+| `insert()`       | Insert at position   | O(N+K) |
+| `erase()`        | Delete from position | O(N+K) |
+| `replace()`      | Replace values       | O(N)   |
+| `find()`         | Search value         | O(N)   |

@@ -1,0 +1,6 @@
+| Function    | Purpose       |  Time |
+| ----------- | ------------- |  ---- |
+| `v[i]`      | ith element   |  O(1) |
+| `v.at(i)`   | ith element   |  O(1) |
+| `v.front()` | First element |  O(1) |
+| `v.back()`  | Last element  |  O(1) |
